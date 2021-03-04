@@ -1,0 +1,14 @@
+.product-image {
+    .product-item-image {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+@media only screen and (max-width:600px) {
+    .cart-tab-control a,
+    .cart-tab-control button {
+        width: 100% !important;
+        margin: 5px 0 !important;
+    }
+}
